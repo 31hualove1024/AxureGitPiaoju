@@ -271,8 +271,17 @@
 }
 .shape {
 }
+._36号字_顶部标题、大按钮、弹窗提示主标题_ {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
 .image1 {
   color:#000000;
+}
+.box_21 {
 }
 .vertical_line {
 }
@@ -344,6 +353,13 @@
   font-style:normal;
   font-size:13px;
   color:#000000;
+  text-align:left;
+}
+._32号字_单行列表内，右方操作说明的文字__） {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
   text-align:left;
 }
 textarea, select, input, button { outline: none; }
